@@ -1,0 +1,7 @@
+.DS_Store
+*.log
+.env
+# Never commit site-specific configs or credentials
+site-specific/
+credentials/
+*.blueprint
